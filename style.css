@@ -1,3 +1,7 @@
 DIV.marquee {
   margin-top: 5px !important;
 }
+
+* {
+  outline: 2px solid red !important;
+}
